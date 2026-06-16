@@ -1,0 +1,2 @@
+# learn-tailwind-daily
+我想通过每天学习一个Tailwind的小知识来逐渐掌握Tailwind
